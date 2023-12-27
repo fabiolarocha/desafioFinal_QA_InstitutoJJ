@@ -1,4 +1,4 @@
-# Projeto Final de Quality Assurance - Instituto Joga Junto
+# Projeto Final de Quality Assurance - Instituto Joga Junto [EM CONSTRUÇÃO]
 
 ## Instruções
 - Praticar a escrita de cenários de teste, utilizando a técnica de BDD. <br>
